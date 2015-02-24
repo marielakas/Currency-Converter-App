@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<currencies>
+  <currency>
+    <name>United Arab Emirates dirham (AED)</name>
+    <history></history>
+    <bank></bank>
+    <banknotes></banknotes>
+    <coins></coins>
+    <user></user>
+    <flag></flag>
+    <history></history>
+  </currency>
+
+  <currency>
+    <name>ANG</name>
+    <history></history>
+    <banknotes></banknotes>
+    <coins></coins>
+  </currency>
+</currencies>

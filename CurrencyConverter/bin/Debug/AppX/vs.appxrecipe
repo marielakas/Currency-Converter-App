@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>USR-PC</Machine>
+    <WindowsUser>usr</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>C2886CEE92B511C4C02B006488EE04D555BB93DDD784AA9C4BC24FA35F7161B0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b314904e-757c-4496-9c81-025e81882a0e_1.0.0.0_neutral__7mk4esh4h1saj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b314904e-757c-4496-9c81-025e81882a0e_7mk4esh4h1saj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b314904e-757c-4496-9c81-025e81882a0e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=usr</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-05T08:36:59.815</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\bin\Debug\CurrencyConvertor.exe">
+      <PackagePath>CurrencyConvertor.exe</PackagePath>
+      <Modified>2013-10-05T09:23:37.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\bin\Debug\CurrencyConvertor.pdb">
+      <PackagePath>CurrencyConvertor.pdb</PackagePath>
+      <Modified>2013-10-05T09:23:37.278</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\packages\Newtonsoft.Json.5.0.6\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2013-10-02T09:57:20.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-04T18:26:41.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-05T08:35:50.587</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-04T15:44:57.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-04T18:21:20.641</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-04T15:39:24.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-04T18:14:10.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\background-image.png">
+      <PackagePath>ViewModels\Files\background-image.png</PackagePath>
+      <Modified>2013-10-05T08:29:38.411</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\background.png">
+      <PackagePath>ViewModels\Files\background.png</PackagePath>
+      <Modified>2013-10-04T14:48:37.853</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\argentina.png">
+      <PackagePath>ViewModels\Files\argentina.png</PackagePath>
+      <Modified>2013-10-04T09:38:25.951</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\currencyworld.png">
+      <PackagePath>ViewModels\Files\currencyworld.png</PackagePath>
+      <Modified>2013-10-05T06:28:29.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-10-02T12:38:02.883</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\currencies.jpg">
+      <PackagePath>ViewModels\Files\currencies.jpg</PackagePath>
+      <Modified>2013-10-04T14:23:28.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\bahrain.jpg">
+      <PackagePath>ViewModels\Files\bahrain.jpg</PackagePath>
+      <Modified>2013-10-04T09:09:58.137</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\bangladesh-flag.jpg">
+      <PackagePath>ViewModels\Files\bangladesh-flag.jpg</PackagePath>
+      <Modified>2013-10-04T09:10:42.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\bulgaria.jpg">
+      <PackagePath>ViewModels\Files\bulgaria.jpg</PackagePath>
+      <Modified>2013-10-04T09:35:30.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\chile.jpg">
+      <PackagePath>ViewModels\Files\chile.jpg</PackagePath>
+      <Modified>2013-10-04T09:36:10.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\colombia.jpg">
+      <PackagePath>ViewModels\Files\colombia.jpg</PackagePath>
+      <Modified>2013-10-04T09:36:26.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\england.jpg">
+      <PackagePath>ViewModels\Files\england.jpg</PackagePath>
+      <Modified>2013-10-04T09:36:44.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\eu.jpg">
+      <PackagePath>ViewModels\Files\eu.jpg</PackagePath>
+      <Modified>2013-10-04T09:37:02.268</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\netherlands-antilles.jpg">
+      <PackagePath>ViewModels\Files\netherlands-antilles.jpg</PackagePath>
+      <Modified>2013-10-04T09:37:19.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\switzerland.jpg">
+      <PackagePath>ViewModels\Files\switzerland.jpg</PackagePath>
+      <Modified>2013-10-04T09:37:39.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\currencies.xml">
+      <PackagePath>ViewModels\Files\currencies.xml</PackagePath>
+      <Modified>2013-10-04T18:00:51.550</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\australia.gif">
+      <PackagePath>ViewModels\Files\australia.gif</PackagePath>
+      <Modified>2013-10-04T09:38:25.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\bolivia.gif">
+      <PackagePath>ViewModels\Files\bolivia.gif</PackagePath>
+      <Modified>2013-10-04T09:38:25.787</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\brazil.GIF">
+      <PackagePath>ViewModels\Files\brazil.GIF</PackagePath>
+      <Modified>2013-10-04T09:43:05.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\brunei.gif">
+      <PackagePath>ViewModels\Files\brunei.gif</PackagePath>
+      <Modified>2013-10-04T09:38:25.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\canada.GIF">
+      <PackagePath>ViewModels\Files\canada.GIF</PackagePath>
+      <Modified>2013-10-04T09:38:26.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\turkey.gif">
+      <PackagePath>ViewModels\Files\turkey.gif</PackagePath>
+      <Modified>2013-10-04T09:08:11.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\united-arab-emirates-flag.gif">
+      <PackagePath>ViewModels\Files\united-arab-emirates-flag.gif</PackagePath>
+      <Modified>2013-10-04T09:38:25.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\ViewModels\Files\usa.gif">
+      <PackagePath>ViewModels\Files\usa.gif</PackagePath>
+      <Modified>2013-10-04T09:38:25.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-10-04T16:23:20.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-10-05T06:23:39.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\bin\Debug\Views\CurrencyConvertorView.xaml">
+      <PackagePath>Views\CurrencyConvertorView.xaml</PackagePath>
+      <Modified>2013-10-05T08:42:18.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\bin\Debug\Views\CurrencyDetailedView.xaml">
+      <PackagePath>Views\CurrencyDetailedView.xaml</PackagePath>
+      <Modified>2013-10-05T08:57:01.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\bin\Debug\Views\HomePageView.xaml">
+      <PackagePath>Views\HomePageView.xaml</PackagePath>
+      <Modified>2013-10-05T08:29:48.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\bin\Debug\Views\SearchResultsView.xaml">
+      <PackagePath>Views\SearchResultsView.xaml</PackagePath>
+      <Modified>2013-10-05T08:39:57.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-10-05T08:36:59.610</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

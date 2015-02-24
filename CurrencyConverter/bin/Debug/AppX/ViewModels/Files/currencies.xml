@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<currencies>
+  <currency>
+    <name>United Arab Emirates dirham (AED)</name>
+    <iso>AED</iso>
+    <bank>United Arab Emirates Central Bank</bank>
+    <coins>
+      In 1973, coins were introduced in denominations of 1, 5, 10, 25, 50 fils, and 1 dirham. The 1, 5 and 10 fils are struck in bronze, with the higher denominations in cupro-nickel. The fils coins were same size and composition as the corresponding Qatar and Dubai dirham coins. In 1995, the 50 fils and 1 dirham coins were reduced in size, with the new 50 fils being curve-equilateral-heptagonal shaped.
+      The value and numbers on the coins are written in Eastern Arabic numerals and the text is in Arabic. The 1, 5 and 10 fils coins are rarely used in everyday life, so all amounts are rounded up or down to the nearest multiples of 25 fils. The 1 fils coin is a rarity and does not circulate significantly. In making change there is a risk of confusing the old 50 fils coin for the modern 1 dirham coin because the coins are almost the same size.
+      Since 1976 the Central Bank of the United Arab Emirates has minted several commemorative coins celebrating different events and rulers of the United Arab Emirates. For details, see Commemorative coins of the United Arab Emirates dirham.
+    </coins>
+    <banknotes>
+      On 20 May 1973, the U.A.E. Currency Board introduced notes in denominations of 1, 5, 10, 50, and 100 dirham; a 1000 dirham note was issued on 3 January 1976. A second series of note was introduced in 1982 which omitted the 1 and 1000 dirham notes. 500 dirham notes were introduced in 1983, followed by 200 dirham in 1989. 1000 dirham notes were reintroduced in 2000. Banknotes are currently available in denominations of 5 (brown), 10 (green), 20 (light blue), 50 (purple), 100 (pink), 200 (green/brown), 500 (navy blue) and 1000 (greenish blue) dirham.
+      The obverse texts are written in Arabic with numbers in Eastern Arabic numerals; the reverse texts are in English with numbers in Arabic numerals. The 200 dirham denomination is scarce as it was only produced in 1989; any circulating today come from bank stocks. The 200 dirham denomination has since been reissued and is now in circulation since late May 2008 - it has been reissued in a different colour; Yellow/Brown to replace the older Green/Brown.
+      The United Arab Emirates Central Bank has released a new 50 dirham note. The security thread is a 3-mm wide, color-shifting windowed security thread with demetalized UAE 50, and it bears the new coat of arms which was adopted on 22 March 2008.
+    </banknotes>
+    <user>United Arab Emirates</user>
+    <flag>../../ViewModels/Files/united-arab-emirates-flag.gif</flag>
+  </currency>
+
+  <currency>
+    <name>Netherlands Antillean guilder (ANG)</name>
+    <iso>ANG</iso>
+    <bank>Central Bank of Curaçao and Sint Maarten</bank>
+    <banknotes>
+      In 1892, the Curaçaosche Bank introduced notes in denominations of 25 and 50 cents, 1 and 2½ guilders. This was the only issue of the cent denominations. Notes for 5, 10, 25, 50, 100, 250 and 500 guilders followed in 1900. The 1 and 2½ guilder notes were suspended after 1920 but reintroduced by the government in 1942 as muntbiljet.
+      From 1954, the name "Nederlandse Antillen" appeared on the reverse of the notes of the Curaçaosche Bank and, from 1955, the muntbiljet (2½ guilders only) was issued in the name of the Nederlandse Antillen. In 1962, the bank's name was changed to the Bank van de Nederlandse Antillen. Starting in 1969, notes dated 28 AUGUSTUS 1967 began to be introduced. The front of these notes all feature the Statuut monument at front left instead of the allegorical seated woman found on the preceding issues, and on the back there is a new coat of arms. In 1970, a final issue of muntbiljet was made in denominations of both 1 and 2½ guilders. The 500 guilder note was not issued after 1962.
+    </banknotes>
+    <coins>  
+      In 1794, silver coins were issued for use in the Dutch West Indies in denominations of 2 stuiver, ¼, 1 and 3 guilders. After the reintroduction of the Dutch guilder in 1828, some 1 guilder coins were cut into quarters and stamped with a "C" in 1838 to produced ¼ guilder coins.
+      In 1900 and 1901, silver 1⁄10 and ¼ guilder coins were introduced which circulated alongside Dutch coins. Following the German occupation of the Netherlands and the separation of the Netherlands Antillean currency from the Dutch, a bronze 1 cent coin was introduced in 1942, followed by a cupro-nickel 5-cent coin in 1943. Bronze 2½ cent and silver 1 and 2½ guilders were introduced in 1944. The coinage of 1941-44 was minted in the United States and carries "P" or "D" mintmarks, and for most denominations a small palm tree. This money was also intended for use in Suriname. The alternate Dutch names for some of these coins are: 5 cent—stuiver; 10 cent—dubbeltje; 25 cent—kwartje; and 2½ guilders—rijksdaalder.
+      From 1952, the name "Nederlandse Antillen" appeared on the coins. In 1970, nickel replaced silver, although the 2½ guilder coin was not reintroduced until 1978. Aluminium 1 and 2½ cents were introduced in 1979. In 1989, aluminium 5 cent, nickel-bonded-steel 10, 25 and 50 cents, and aureate-steel 1 and 2½ guilders were introduced. Aureate-steel 5 guilder coins followed in 1998.
+    </coins>
+    <user> Curaçao, Sint Maarten, Netherlands Antilles</user>
+    <flag>../../ViewModels/Files/netherlands-antilles.jpg</flag>
+  </currency>
+
+<currency>
+    <name>Argentine peso (ARS)</name>
+    <iso>ARS</iso>
+    <bank>Central Bank of the Republic of Argentina</bank>
+    <banknotes>
+      In 1992, banknotes were introduced in denominations of 1, 2, 5, 10, 20, 50, and 100 pesos. The 1-peso note was replaced by a coin in 1994. The pictures below are outdated, since they bear the "Convertibles de curso legal" (meaning that value was fixed to the same amount in US dollars). New bills, printed since 2002, do not have this text. As most bills have been replaced, it is rare to find ones marked as convertible except in the large $100 denominations. All bills are 155 × 65 mm in size
+    </banknotes>
+    <coins>
+      In 1992, 1-, 5-, 10-, 25- and 50-centavo coins were introduced, followed by 1 peso in 1994. The 1-centavo coins were last minted in 2001 and they have been withdrawn from circulation.
+    </coins>
+    <user>Argentina</user>
+    <flag>../../ViewModels/Files/argentina.png</flag>
+  </currency>
+
+<currency>
+    <name>Australian dollar (AUD) </name>
+    <iso>AUD</iso>
+    <bank>Reserve Bank of Australia</bank>
+    <banknotes>
+      The $5 note was not issued until May 1967. The $1 (10/-), $2 (£1), $10 (£5), and $20 (£10) had exact exchange rates with pounds and were a similar colour to the notes they replaced, but the $5 (£2/10) did not, and so was introduced after the public had become familiar with decimal currency. Notes issued between 1966 and 1973 bore the title "Commonwealth of Australia". Starting from 1974, the title on the new notes only read "Australia" and the legal tender phrase was also changed from “Legal Tender throughout the Commonwealth of Australia and the territories of the Commonwealth” to “This Australian Note is legal tender throughout Australia and its territories". The $50 note was introduced in 1973 and the $100 note in 1984, in response to inflation requiring larger denominations for transactions. The one dollar note was replaced by a coin in 1984, while the two dollar note was replaced by a smaller coin in 1988. Although no longer printed, all previous issues of Australian banknotes are considered legal tender.
+    </banknotes>
+    <coins>
+      In 1966, coins were introduced in denominations of 1, 2, 5, 10, 20 and 50 cents. The initial 50 cent coins contained high silver content and were withdrawn after a year after it was found that the intrinsic value of the silver content exceeded the face value of the coins. One-dollar coins were introduced in 1984, followed by two-dollar coins in 1988. The one- and two-cent coins were discontinued in 1991 and withdrawn from circulation. In commemoration of the 40th anniversary of decimal currency, the 2006 mint proof and uncirculated sets included one- and two-cent coins. In early 2013, Australia's first triangular coin was introduced, to mark the 25th anniversary of the opening of Parliament House. The silver $5 coin is 99.9 per cent silver and depicts Parliament House as viewed from one of its courtyards. Cash transactions are rounded to the nearest five cents. As with most public changes to currency systems, there has been a great amount of seignorage of the discontinued coins. All coins portray the reigning Australian Sovereign, Queen Elizabeth II, on the obverse, and are produced by the Royal Australian Mint.
+      Australia has regularly issued commemorative 50-cent coins. The first was in 1970, commemorating James Cook's exploration along the east coast of the Australian continent, followed in 1977 by a coin for Queen Elizabeth II's Silver Jubilee, the wedding of Charles, Prince of Wales and Lady Diana Spencer in 1981, the Brisbane Commonwealth Games in 1982, and the Australian Bicentenary in 1988. Issues expanded into greater numbers in the 1990s and the 21st century, responding to collector demand. Australia has also made special issues of 20-cent, one-dollar and two-dollar coins.
+      Current Australian 5-, 10- and 20-cent coins are identical in size to the former Australian, New Zealand and British sixpence, shilling and two shilling (florin) coins. In 1990, the UK replaced these coins with smaller versions, as did New Zealand in 2006 - at the same time discontinuing the five-cent coin. With a mass of 15.55 grams and a diameter of 31.51 mm, the Australian 50-cent coin is one of the largest sized coins used in the world today. In circulation, the old New Zealand 5-, 10- and 20-cent coins were often mistaken for Australian coins of the same value, owing to their identical size and shape. Until the size of the New Zealand coins was changed in 2004, Australian coins below the dollar in value were in circulation in both countries. There is still some confusion with the larger denomination coins in the two countries; Australia's $1 coin is similar in size to New Zealand's $2 coin, and the New Zealand $1 coin is similar in size to Australia's $2 coin. As such, Australian coins are occasionally found in new Zealand and vice versa.
+    </coins>
+    <user>Australia</user>
+    <flag>../../ViewModels/Files/australia.gif</flag>
+  </currency>
+
+  <currency>
+    <name>Bangladeshi taka (BDT)</name>
+    <iso>BDT</iso>
+    <bank>Bangladesh Bank</bank>
+    <banknotes>
+      Prior to the civil war, banknotes of the State Bank of Pakistan circulated throughout Bangladesh, and continued to be used in Bangladesh even after independence. During the war, it was an unofficial practice of some Bengalis to protest Pakistani rule by stamping banknotes with Bengali DESH as two words in either Bengali or English. These locally produced stamps are known to exist in several varieties, as are forgeries, so be suspicious of fresh stamps on old notes, bi-lingual stamps, or stamps on notes with Karachi or Lahore imprints instead of Dhaka. On 8 June 1971, the Pakistani government declared that all banknotes bearing such stamps ceased to be legal tender. Furthermore, to prevent looted high-denomination notes from disrupting the Pakistani economy, the government also withdrew the legal tender status of all 100- and 500-rupee notes.
+      These were followed in 1972 by treasury notes for 1 taka and notes of the Bangladesh Bank for 5, 10 and 100 taka. In 1975, banknotes for 50 taka were introduced, followed by 500 taka in 1977 and 20 taka in 1980. 1 taka treasury notes were issued until 1993, with 2 taka treasury notes introduced in 1989.
+      In 2000, the government issued polymer 10 taka notes as an experiment (similar to the Australian dollar). They proved unpopular, however, and were withdrawn later. At present, the 1 taka and 5 taka notes are gradually being replaced with coins.
+      In 2008, the government issued 1000 taka notes.
+      In 2011, Bangladesh Bank began issuing a new series of banknotes denominated in 2, 5, 100, 500, and 1000-taka. All are dated 2011 and feature a portrait and watermark of the Father of the Nation, Bangabandhu Sheikh Mujibur Rahman, along the National Martyr's Monument in Savar at center front.
+      In 2011, Bangladesh Bank introduced a 40-taka note to commemorate the "40th Victory Anniversary of Bangladesh". The commemorative note features a portrait of the Father of the Nation, Bangabandhu Sheikh Mujibur Rahman and the National Martyr's Monument in Savar on front, and six armed men on back. Curiously, this note has an electrotype 10 in the watermark, indicating it was likely printed on extra 10-taka banknote paper.
+      On February 15, 2012, Bangladesh Bank has introduced a 60-taka note to commemorate "60 years of National Movement". The commemorative note measures 130 x 60mm and features the Shaeed Minar (Martyrs' monument) in Dhaka and five men on the back. Like the 40-taka commemorative note, this note has an electrotype 50 in the watermark. It was likely printed on extra 50-taka banknote paper.
+      Bangladesh Bank plans to introduce new notes denominated in 10, 20, and 50-taka on March 7, 2012. The notes bear the portrait of Bangabandhu Sheikh Mujibur Rahman and the National Martyr's Monument in Savar on the front. On the back of the notes, the 10-taka will picture the Baitul Mukarram mosque, the 20-taka pictures the Shat Gombuk mosque in Bagherat, and the 50-taka notes feature Shilpacharya Jainul Abedin's famous painting “Ploughing.”
+      Bangladesh Bank has withdrawn the new 50-taka note after a spelling mistake of Shilpacharya Zainul Abedin (জয়নুল আবেদীন) which was identified on the back of the note. The note had just been introduced on March 7, so it is likely that very few made it into circulation, even though 2.25 crore pieces were printed.
+      Bangladesh Bank issued the withdrawn 50-taka note on July 15, 2012 after correcting the spelling mistake of Shilpacharya Zainul Abedin (জয়নুল আবেদিন) which was identified on the back of the note. The corrected note is identical to the withdrawn note, except for the date (2012 vs. 2011) and the caption on the back.
+      On January 26, 2013, Bangladesh Bank issued a 25-taka note to commemorate the 25th anniversary (silver jubilee) of the Security Printing Corporation (Bangladesh) Ltd. On the front is the National Martyr's Monument in Savar, the designs of the previous series of the Bangladeshi taka notes and its postage stamps, three spotted deer and the magpie robin (doyel) bird. On the reverse is the headquarters of the Security Printing Corporation. Curiously, this note has an electrotype 10 in the watermark, indicating it was likely printed on extra 10-taka banknote paper.
+      On July 8, 2013, Bangladesh Bank issued a 100-taka note to commemorate the 100th anniversary of the Bangladesh National Museum. The commemorative note features an 18th-century terra-cotta plaque of a horseman on the front and the Bangladesh National Museum on the back.
+    </banknotes>
+    <coins>
+      In 1973, coins were introduced in denominations of 5, 10, 25 and 50 poisha. 1 poisha coins followed in 1974, with 1 taka coins introduced in 1975. The 1, 5 and 10 poisha were struck in aluminium, with the 25 and 50 poisha struck in steel and the 1 taka in copper-nickel. The 5 poisha were square with rounded corners, whilst the 10 poisha were scalloped. Steel 5 taka were introduced in 1994, whilst a steel 2 taka coin followed in 2004.
+      1 and 5 poisha coins are rarely found in circulation. 10, 25, and 50 poisha coins do not circulate widely. Only the 1, 2 and 5 taka are regularly found in circulation.
+    </coins>
+    <user>Bangladesh</user>
+    <flag>../../ViewModels/Files/bangladesh-flag.jpg</flag>
+  </currency>
+
+<currency>
+    <name>Bulgarian Lev (BGN)</name>
+    <iso>BGN</iso>
+    <bank>Bulgarian National Bank</bank>
+    <banknotes>
+      In 1999, banknotes were introduced in denominations of 1, 2, 5, 10, 20 and 50 leva. 100 leva notes were added in 2003. The 1 lev note has been replaced in everyday use by the 1 lev coin.
+    </banknotes>
+    <coins>
+      In 1999, coins in denominations of 1, 2, 5, 10, 20 and 50 stotinki were introduced. A 1 lev coin in 2002 replaced the 1 lev banknote introduced in 1999. The 1, 2 and 5 stotinki are struck in brass-plated steel, and the 10, 20 and 50 stotinki in cupro-nickel; each depicts Madara Rider on its obverse. The 1 lev coin is bimetallic and depicts St. Ivan Rilski on its obverse
+    </coins>
+    <user>Bulgara</user>
+    <flag>../../ViewModels/Files/bulgaria.jpg</flag>
+  </currency>
+
+<currency>
+    <name>Bahraini dinar (BHD)</name>
+    <iso>BHD</iso>
+    <bank>Central Bank of Bahrain</bank>
+    <banknotes>
+      On October 16, 1965, the Bahrain Currency Board introduced notes in denominations of ¼, ½, 1, 5 and 10 dinar; a 100-fil note was introduced on September 2, 1967. In 1973, the Bahrain Monetary Agency took over the issuance of paper money, and in 1979 it introduced a new family of notes dated 1973 in Arabic, with denominations of ½, 1, 5, 10 and 20 dinar. On September 7, 2006, the Bahrain Monetary Agency was renamed the Central Bank of Bahrain. On March 17, 2008, the Central Bank of Bahrain introduced a new family of notes reflecting Bahrain's heritage as well as its modern development. Saudi riyals are also acceptable in Bahrain, with the exception of the Saudi 500 riyal note which is only accepted in major supermarkets, airports and electronic shops.
+    </banknotes>
+    <coins>
+      In 1965, coins were introduced in denominations of 1, 5, 10, 25, 50 and 100 fils. The 1, 5 and 10 fils were struck in bronze, with the others in cupro-nickel. The 1 fils coin was not produced after 1966 and no longer circulates. In 1992, brass replaced bronze in the 5 and 10 fils and a bimetallic 100 fils coin was introduced. A bimetallic 500 fils followed in 2000.
+    </coins>
+    <user>Bahrain</user>
+    <flag>../../ViewModels/Files/bahrain.jpg</flag>
+  </currency>
+  
+<currency>
+    <name>Brunei Dollar (BND)</name>
+  <iso>BND</iso>
+    <bank>Autoriti Monetari Brunei Darussalam</bank>
+    <banknotes>
+      On June 12, 1967, the government (Kerajaan Brunei) introduced notes in denominations of 1, 5, 10, 50 and 100 dollars. Notes for 500 and 1000 dollars followed in 1979. In 1989, the title on the paper money was changed to Negara Brunei Darussalam, the official name of the country, and the Malay term for “State of Brunei, Abode of Peace.” 10,000 dollar notes were introduced the same year. All notes bear the denomination in Malay (in both Rumi and Jawi)and in English. The English denomination appeared on the obverse below the denomination in Malay on the earlier series, but now appears on the reverse together with the Jawi.
+      Five series of notes have been issued. The colours of $1, $5, and $10 notes have been the same for all the series of banknotes. 
+    </banknotes>
+    <coins>
+      In 1967, coins were introduced in denominations of 1, 5, 10, 20 and 50 cents. Except for the bronze 1 cent, the coins were struck in cupro-nickel. In 1986, copper-clad steel replaced bronze.
+    </coins>
+    <user>Brunei, Signapore</user>
+    <flag>../../ViewModels/Files/brunei.gif</flag>
+  </currency>
+
+<currency>
+    <name>Bolivian boliviano (BOB)</name>
+  <iso>BOB</iso>
+    <bank>Banco Central de Bolivia</bank>
+    <banknotes>
+      In 1873, the first boliviano banknotes were issued by the Banco Nacional de Bolivia in denominations of 1, 5, 10, 20, 50 and 100 bolivianos. 20 and 40 centavo notes were added in 1875. Notes were also issued by the Banco Agricola, the Banco de Bolivia y Londres, the Banco del Comercio, the Banco Francisco Argandoña, the Banco Industrial de La Paz (later the Banco Industrial), the Banco Mercatil and the Banco Potosi, with denominations of 1, 5, 10, 20, 50 and 100 bolivianos. The last issue of these private banks was made in 1911.
+      In 1903, the Treasury introduced notes in denominations of 50 centavos, 1, 5, 10 and 20 bolivianos. In 1911, the Banco de la Nación Boliviana began issuing notes. The first issue, in denominations of 1, 5, 10, 20, 50 and 100 bolivianos, was overprinted on notes of the Banco de Bolivia y Londres. Regular issues, in the same denominations, followed later the same year. In 1928, the Banco Central took over paper money issuance, with notes for 1, 5, 10, 20, 50, 100, 500 and 1000 bolivianos. 5000 and 10,000 boliviano notes followed in 1942.Post-inflation economic period annual percentage rate capital appreciation and growth made all the inflation period bolivianos cash banknotes at par value current and legally circulating with the new.
+    </banknotes>
+    <coins>
+      In 1864, copper 1 and 2 centecimos, and silver 1⁄20, 1⁄10, 1⁄5 and 1 boliviano were introduced. In 1870, silver 5, 10 and 20 centavos were introduced, followed by silver 50 centavos in 1873 and copper 1 and 2 centavos in 1878. In 1883, cupro-nickel 5 and 10 centavos were introduced. Because these were similar in size to the silver 10 and 20 centavo coins, some were officially punched with a centre hole. Larger 5 and 10 centavo coins were issued from 1892. The 50 centavos was last struck in 1879, whilst the 1 and 2 centavos were last struck in 1883.
+      The last 5 centavos were struck in 1935, whilst, in 1937, cupro-nickel 50 centavos were introduced, followed in 1942 by issues of zinc 10 and 20 centavos and bronze 50 centavos. These were the last issues below 1 boliviano. In 1951, bronze 1, 5 and 10 bolivianos were issued.
+    </coins>
+    <user>Bolivia</user>
+    <flag>../../ViewModels/Files/bolivia.gif</flag>
+  </currency>
+  
+<currency>
+    <name>Brazilian real (BRL)</name>
+  <iso>BRL</iso>
+    <bank>Central Bank of Brazil</bank>
+    <banknotes>
+      On February 3, 2010, the Central Bank of Brazil announced a new series of the real banknotes which would begin to be released in April 2010. The new design added security enhancements in an attempt to reduce counterfeiting. The notes have different sizes according to their values to help vision-impaired people. The changes were made reflecting the growth of the Brazilian economy and the need for a stronger and safer currency. The new banknotes began to enter circulation in December 2010, coexisting with the older ones.
+    </banknotes>
+    <coins>
+      In 1998, a second series of coins was introduced. It featured copper-plated steel coins of 1 and 5 centavos, brass-plated steel coins of 10 and 25 centavos, a cupronickel 50 centavos coin, and a bi-coloured brass and cupronickel coin of 1 real. However, from 2002 onwards, steel was used for the 50 centavos coin and the central part of the 1 real coin.
+      In November 2005, the Central Bank discontinued the production of 1 centavo coins, but the existing ones continue to be legal tender. Retailers now generally round their prices to the next 5 or 10 centavos.
+    </coins>
+    <user>Brazil</user>
+    <flag>../../ViewModels/Files/brazil.gif</flag>
+  </currency>
+  
+<currency>
+    <name>Canadian dollar (CAD)</name>
+    <iso>CAD</iso>
+    <bank>Bank of Canada</bank>
+    <banknotes>
+      The first paper money issued in Canada denominated in dollars were British Army bills, issued between 1813 and 1815. Canadian dollar bank notes were later issued by the chartered banks starting in the 1830s, by several pre-confederation colonial governments (most notably the Province of Canada in 1866), and after confederation, by the Dominion of Canada starting in 1870. Some municipalities also issued notes, most notably depression scrip during the 1930s.
+      On 3 July 1934, with only 10 chartered banks still issuing notes, the Bank of Canada was founded. It took over the federal issuance of notes from the Dominion of Canada. It began issuing notes in denominations of $1, $2, $5, $10, $20, $25, $50, $100, $500 and $1000. In 1944, the chartered banks were prohibited from issuing their own currency, with the Royal Bank of Canada and the Bank of Montreal among the last to issue notes.
+      Significant design changes to the notes have occurred since 1935, with new series introduced in 1937, 1954, 1970, 1986, and 2001. In June 2011, newly designed notes printed on a polymer substrate, as opposed to cotton fibre, were announced; the first of these polymer notes, the $100 bill, began circulation on 14 November 2011, the $50 bill began circulation on 26 March 2012, the $20 denomination began circulation on 7 November 2012, and the $5 and $10 denominations will begin circulation in November 2013.
+      All banknotes are currently printed by two Ottawa, Ontario base companies, Canadian Bank Note Company and BA International Incorporated (founded 1866 as British American Bank Note Company and now division of Giesecke and Devrient GmbH of Munich, Germany), under contract to the Bank of Canada. In 2011, BA International announced it would shutter its banknote printing business and cease printing banknotes at the end of 2012.
+    </banknotes>
+    <coins>
+      Coins are produced by the Royal Canadian Mint in Winnipeg, Manitoba, and currently issued in denominations of 5¢ (nickel), 10¢ (dime), 25¢ (quarter), 50¢ (50¢ piece) (though the 50¢ piece is no longer distributed to banks and is only available directly from the mint, therefore seeing very little circulation), $1 (loonie), and $2 (toonie). The last 1¢ (penny) to be minted in Canada was struck on Friday, May 4, 2012, and ceased its distribution on February 4, 2013. Ever since, the price for a cash transaction may be rounded to the nearest nickel, though the penny continues to be legal tender. The Royal Canadian Mint has copyrighted these coins.
+      The standard set of designs has Canadian symbols, usually wildlife, on the reverse, and an effigy of Elizabeth II on the obverse. However, some pennies, nickels, and dimes remain in circulation that bear the effigy of George VI. It is also common for American coins to be found among circulation due to the close proximity to the United States and how the sizes of the coins are similar. Commemorative coins with differing reverses are also issued on an irregular basis, most often Quarters. 50¢ coins are rarely found in circulation; they are often collected and not regularly used in day-to-day transactions in most provinces.
+    </coins>
+    <user>Canada</user>
+    <flag>../../ViewModels/Files/canada.gif</flag>
+  </currency>
+
+  <currency>
+    <name>Swiss franc (CHF)</name>
+    <iso>CHF</iso>
+    <bank>Swiss National Bank</bank>
+    <banknotes>
+      In 1907, the Swiss National Bank took over the issuance of banknotes from the cantons and various banks. It introduced denominations of 50, 100, 500 and 1000 francs. 20 franc notes were introduced in 1911, followed by 5 franc notes in 1913. In 1914, the Federal Treasury issued paper money in denominations of 5, 10 and 20 francs. These notes were issued in three different versions: French, German and Italian. The State Loan Bank also issued 25 franc notes that year. In 1952, the National Bank ceased issuing 5 franc notes but introduced 10 franc notes in 1955. In 1996, 200 franc notes were introduced whilst the 500 franc note was discontinued.
+    </banknotes>
+    <coins>
+      In 1850, coins were introduced in denominations of 1, 2, 5, 10, and 20 centimes and ½, 1, 2, and 5 francs, with the 1 and 2 centimes struck in bronze, the 5, 10, and 20 centimes in billon (with 5% to 15% silver content), and the franc denominations in .900 fine silver. Between 1860 and 1863, .800 fine silver was used, before the standard used in France of .835 fineness was adopted for all silver coins except the 5 francs (which remained .900 fineness) in 1875. In 1879, billon was replaced by cupro-nickel in the 5 and 10 centimes and by nickel in the 20 centimes.
+    </coins>
+    <user>Switzerland, Liechtenstein</user>
+    <flag>../../ViewModels/Files/switzerland.jpg</flag>
+  </currency>
+  
+  <currency>
+    <name>Chilean peso (CLP)</name>
+    <iso>CLP</iso>
+    <bank>Banco Central de Chile</bank>
+    <banknotes>
+      The first Chilean paper money was issued between 1840 and 1844 by the treasury of the Province of Valdivia, in denominations of 4 and 8 reales. In the 1870s, a number of private banks began issuing paper money, including the Banco Agrícola, the Banco de la Alianza, the Banco de Concepción, the Banco Consolidado de Chile, the Banco de A. Edwards y Cía., the Banco de Escobar, Ossa y Cía., the Banco Mobiliario, the Banco Nacional de Chile, the Banco del Pobre, the Banco Sud Americano, the Banco del Sur, the Banco de la Unión and the Banco de Valparaíso. Others followed in the 1880s and 1890s. Denominations included 1, 2, 5, 10, 20, 50, 100 and 500 pesos. One bank, the Banco de A. Edwards y Cía., also issued notes denominated in pounds sterling (libra esterlina).
+      In 1881, the government issued paper money convertible into silver or gold, in denominations of 1, 2, 5, 10, 20, 50, 100 and 1000 pesos. 50 centavo notes were added in 1891 and 500 pesos in 1912. In 1898, provisional issues were made by the government, consisting of private bank notes overprinted with the words "Emisión Fiscal". This marked the end of the production of private paper money.
+      In 1925, the Banco Central de Chile began issuing notes. The first, in denominations of 5, 10, 50, 100 and 1000 pesos, were overprints on government notes. In 1927, notes marked as "Billete Provisional" were issued in denominations of 5, 10, 50, 100, 500 and 1000 pesos. Regular were introduced between 1931 and 1933, in denominations of 1, 5, 10, 20, 50, 100, 500, 1000, 5000 and 10,000 pesos. The 1 and 20 peso notes stopped production in 1943 and 1947, respectively. The remaining denominations continued production until 1959, with a 50,000 peso note added in 1958.
+    </banknotes>
+    <coins>
+      Between 1817 and 1851, silver coins were issued in denominations of ¼, ½, 1 and 2 reales and 1 peso (also denominated 8 reales), with gold coins for 1, 2, 4 and 8 escudos. In 1835, copper ½ and 1 centavo coins were issued. A full decimal coinage was introduced between 1851 and 1853, consisting of copper ½ and 1 centavo, silver ½ and 1 décimo, 20 and 50 centavos, and 1 peso, and gold 5 and 10 pesos. In 1860, gold 1 peso coins were introduced, followed by cupro-nickel ½, 1 and 2 centavos between 1870 and 1871. Copper coins for these denominations were reintroduced between 1878 and 1883, with copper 2½ centavos added in 1886. A new gold coinage was introduced in 1895, reflecting the lower gold standard, with coins for 2, 5, 10 and 20 pesos. In 1896, the ½ and 1 décimo were replaced by 5 and 10 centavo coins.
+      In 1907, a short-lived, silver 40 centavo coin was introduced following cessation of production of the 50 centavo coin. In 1919, the last of the copper coins (1 and 2 centavos) were issued. The following year, cupro-nickel replaced silver in the 5, 10 and 20 centavo coins. A final gold coinage was introduced in 1926, in denominations of 20, 50 and 100 pesos. In 1927, silver 2 and 5 peso coins were issued. Cupro-nickel 1 peso coins were introduced in 1933, replacing the last of the silver coins. In 1942, copper 20 and 50 centavos and 1 peso coins were introduced. The last coins of the first peso were issued between 1954 and 1959. These were aluminium 1, 5 and 10 pesos.
+    </coins>
+    <user>Chile</user>
+    <flag>../../ViewModels/Files/chile.jpg</flag>
+  </currency>
+
+<currency>
+    <name>Colombian peso (COP)</name>
+    <iso>COP</iso>
+    <bank>Banco de la República</bank>
+    <banknotes>
+      Between 1857 and 1880, five of Colombia's then provinces, Bolívar, Cauca, Cundinamarca, Panama and Santander issued paper money. Denominations included 10 and 50 centavos, 1, 2, 3, 5, 10, 50 and 100 pesos.
+In the early 1860s, the Tesori General de los Estados Unidos de Nueva Granada issued notes in denominations of 20 centavos, 1, 2, 3, 10, 20 and 100 pesos, with all denominations also given in reales. In 1863, Treasury notes of the Estados Unidos de Colombia were introduced for 5, 10 and 20 centavos, and 1, 2, 5, 10, 20 and 50 pesos.
+More than sixty private banks issued notes between 1865 and 1923. Denominations issued included 10, 20, 25, and 50 centavos, and 1, 2, 5, 10, 20, 25, 50, 100 and 500 pesos. Uniquely, the Banco de Colombia issued notes denominated in both pesos and sterling, due to the peg of 1 peso = 4 shillings.
+In 1881, the Banco Nacional introduced notes for 20 centavos, and 1, 5, 10, 20, 50 and 100 pesos. These were followed by 50 centavo notes in 1882 and 10 centavos in 1885. One thousand peso notes were introduced in 1895 and 500 pesos in 1900. In 1904, the Treasury took over paper money production, issuing 1, 2, 5, 10, 25, 50 and 100 peso notes, followed by 1000 pesos in 1908. In 1910, the Junta de Conversion introduced 50 and 100 peso notes, followed by 1, 2, 5 and 10 pesos in 1915.
+Regional issues were reintroduced in 1898 and were issued until 1920. Antioquia, Bolivar, Magdalena, Santander and Tolima issued notes, with denominations including 10, 20, 50 centavos, and 1, 2½, 5, 10, 20 and 50 pesos.
+In 1923, the Banco de la Republica took over paper money production and introduced notes denominated in peso oro. The first were provisional issues, overprinted on earlier notes of the Casa de Moneda de Medellin, in denominations of 2½, 5, 10 and 20 pesos. Regular issues followed for 1, 2, 5, 10, 50, 100, and 500 pesos oro. Twenty peso notes were introduced in 1927.
+In 1932 and 1941, silver certificates were issued for 1 and 5 pesos plata, although 1 and 5 peso oro notes continued to be produced. Treasury notes for 5 and 10 pesos oro were issued in 1938, followed by ½ peso oro between 1948 and 1953. Half peso oro notes were also produced by the Banco de la Republica in 1943 by cutting in half 1 peso notes.
+The Banco de la Republica introduced 200 and 1000 peso oro notes in 1974 and 1979, respectively, whilst 1 and 2 peso oro notes ceased production in 1977, followed by 10 pesos oro in 1980, 5 pesos oro in 1981, 20 pesos in 1983 and 50 pesos in 1986. Five-hundred pesos oro notes were introduced in 1986 with 10,000 pesos oro following in 1992. Production of 100 peso oro notes ended in 1991, followed by that of the 200 and 500 pesos oro in 1992 and 1993, respectively. From 1993, the word oro was dropped. Twenty thousand peso notes were introduced in 1996 and 50,000 pesos in 2000.
+On November 17, 2006, the 1,000 and 2,000 peso notes were reduced in size from 140 × 70 mm to 130 × 65 mm, because these notes are frequently replaced due to heavy use.
+On December 28, 2010, the Banco de la Republica issued a 2,000 peso note that now includes the number "2" expressed in Braille in the watermark area.
+    </banknotes>
+    <coins>
+      Between 1837 and 1839, the Republic of New Grenada introduced silver ¼, ½, 1, 2, 8 real coins along with gold 1, 2, 16 pesos. These were mostly continuations of coins issued before 1837 in the name of the Republic of Colombia but with the escudo denominations replaced by pesos. In 1847, the currency was decimalized and coins were introduced in denominations of ½ and 1 decimo de real in copper and 1, 2, 8 and 10 reales in silver. ¼ and ½ real coins followed in 1849 and 1850. In 1853, silver ½ and 1 decimo and gold 10 peso coins were introduced, followed by 2 decimos in 1854 and 1 peso in 1855, both in silver. In 1856, gold 5 peso coins were added.
+Between 1859 and 1862, coins were issued by the Grenadine Confederation in silver for ¼, ½ and 2 reales, ¼, ½ and 1 decimo, and 1 peso, and in gold for 1, 2, 5, 10 and 20 pesos. The United States of New Grenada issued silver 1 decimo and 1 peso in 1861.
+Beginning in 1862, coins were issued by the United States of Colombia. Silver coins were struck in denominations of ¼, ½, 1, 2, 5 decimos and 1 peso, together with gold 1, 2, 5, 10 and 20 pesos. With the introduction of the centavo in 1872, silver 2½, 5, 10, 20 and 50 centavos were issued, followed by cupro-nickel 1¼ centavos in 1874 and cupro-nickel 2½ centavos in 1881.
+In 1886, the country's name reverted to the Republic of Colombia. The first issues were cupro-nickel 5 centavos. Except for silver 50 centavos (also denominated 5 decimos) issued between 1887 and 1889, no other denominations were issued until 1897, when silver 10 and 20 centavos were introduced. Silver 5 centavos were issued in 1902
+In 1907, following the stabilization of the paper money, cupro-nickel 1, 2 and 5 pesos p/m were introduced and issued until 1916. In 1913, after the pegging of the peso to sterling, gold 2½ and 5 peso coins were introduced which were of the same weight and composition as the half sovereign and sovereign. Gold 10 pesos were also issued in 1919 and 1924, with the 2½ and 5 pesos issued until 1929 and 1930, respectively.
+In 1918, the 1, 2 and 5 pesos p/m coins were replaced by 1, 2 and 5 centavo coins of the same size and composition. In 1942, bronze 1 and 5 centavo coins were introduced, followed by bronze 2 centavos in 1948. Between 1952 and 1958, cupro-nickel replaced silver in the 10, 20 and 50 centavos.
+In 1967, copper-clad-steel 1 and 5 centavos were introduced, together with nickel-clad-steel 10, 20 and 50 centavos and cupro-nickel 1 peso coins, the 2 centavos having ceased production in 1960. In 1977, bronze 2 pesos were introduced. In 1984, production of all coins below 1 peso ended. Higher denominations were introduced in the following years of high inflation. 5 peso coins were introduced in 1980, followed by 10 pesos in 1981, 20 pesos in 1982, 50 pesos in 1986, 100 pesos in 1992, 200 pesos in 1994, 500 pesos in 1993 and 1000 pesos in 1996. However, due to massive counterfeiting problems, the 1000 pesos was withdrawn by stages. By 2002, the coin was out of circulation.
+In 2012, the Bank of the Republic of Colombia issued a new series of coins with the 500 and 1000 peso coins now struck as Bi-metallic coins.
+    </coins>
+    <user>Colombia</user>
+    <flag>../../ViewModels/Files/colombia.jpg</flag>
+  </currency>
+  
+<currency>
+    <name>Euro (EUR)</name>
+  <iso>EUR</iso>
+    <bank>European Central Bank</bank>
+    <banknotes>
+      The design for the euro banknotes has common designs on both sides. The design was created by the Austrian designer Robert Kalina. Notes are issued in €500, €200, €100, €50, €20, €10, €5. Each banknote has its own colour and is dedicated to an artistic period of European architecture. The front of the note features windows or gateways while the back has bridges, symbolising links between countries and with the future. While the designs are supposed to be devoid of any identifiable characteristics, the initial designs by Robert Kalina were of specific bridges, including the Rialto and the Pont de Neuilly, and were subsequently rendered more generic; the final designs still bear very close similarities to their specific prototypes; thus they are not truly generic. The monuments looked similar enough to different national monuments to please everyone.
+    </banknotes>
+    <coins>
+      The coins are issued in €2, €1, 50c, 20c, 10c, 5c, 2c, and 1c denominations. To avoid the use of the two smallest coins, some cash transactions are rounded to the nearest five cents in the Netherlands (by voluntary agreement) and in Finland (by law). This practice is discouraged by the Commission, as is the practice of certain shops to refuse to accept high value euro notes.
+    </coins>
+    <user>Eurozone</user>
+    <flag>../../ViewModels/Files/eu.jpg</flag>
+  </currency>
+
+<currency>
+    <name>Pound sterling (GBP)</name>
+    <iso>GBP</iso>
+    <bank>Bank of England</bank>
+    <banknotes>
+      The first sterling notes were issued by the Bank of England shortly after its foundation in 1694. Denominations were initially written on the notes at the time of issue. From 1745, the notes were printed in denominations between £20 and £1000, with any odd shillings added in hand. £10 notes were added in 1759, followed by £5 in 1793 and £1 and £2 in 1797. The lowest two denominations were withdrawn following the end of the Napoleonic wars. In 1855, the notes were converted to being entirely printed, with denominations of £5, £10, £20, £50, £100, £200, £300, £500 and £1000 issued.
+    </banknotes>
+    <coins>
+      In 1914, the Treasury introduced notes for 10/- and £1 to replace gold coins. These circulated until 1928, when they were replaced by Bank of England notes. Irish independence reduced the number of Irish banks issuing sterling notes to five operating in Northern Ireland. The Second World War had a drastic effect on the note production of the Bank of England. Fearful of mass forgery by the Nazis (see Operation Bernhard), all notes for £10 and above ceased production, leaving the bank to issue only 10/-, £1 and £5 notes. Scottish and Northern Irish issues were unaffected, with issues in denominations of £1, £5, £10, £20, £50 and £100.
+The Bank of England reintroduced £10 notes in 1964. In 1969, the 10/- note was replaced by the 50p coin as part of the preparation for decimalisation. £20 Bank of England notes were reintroduced in 1970, followed by £50 in 1981. Following the introduction of the £1 coin in 1983, Bank of England £1 notes were withdrawn in 1988. Scottish and Northern Irish banks followed, with only the Royal Bank of Scotland continuing to issue this denomination.
+The £5 polymer banknote, issued by Northern Bank in 2000, is the only polymer note currently in circulation, although Northern Bank also produces paper-based £10, £20 and £50 notes.
+The Bank of England produces notes named "giant" and "titan". A giant is a one million pound note, and a titan is a one hundred million pound bank note, of which there are about 40. Giants and titans are only used within the banking system.
+    </coins>
+    <user>
+      United Kingdom
+    </user>
+    <flag>../../ViewModels/Files/england.jpg</flag>
+  </currency>
+
+  <currency>
+    <name>US Dollar (USD)</name>
+    <iso>USD</iso>
+    <bank>Federal Reserve System</bank>
+    <banknotes>
+      Currently printed denominations are $1, $2, $5, $10, $20, $50, and $100. Notes above the $100 denomination stopped being printed in 1946 and were officially withdrawn from circulation in 1969. These notes were used primarily in inter-bank transactions or by organized crime; it was the latter usage that prompted President Richard Nixon to issue an executive order in 1969 halting their use. With the advent of electronic banking, they became less necessary. Notes in denominations of $500, $1,000, $5,000, $10,000 and $100,000 were all produced at one time; see large denomination bills in U.S. currency for details. These notes are now collectors' items and are worth more than their face value to collectors.
+    </banknotes>
+    <coins> Frequently used	1¢, 5¢, 10¢, 25¢</coins>
+    <user>United States, El Salvador, Panama, Ecuador, East Timor</user>
+    <flag>../../ViewModels/Files/usa.gif</flag>
+  </currency>
+
+ <currency>
+    <name>Turkish Lira (TRY)</name>
+   <iso>TRY</iso>
+    <bank>Central Bank of the Republic of Turkey</bank>
+    <banknotes>
+      A new series of banknotes, the "E-9 Emission Group" entered circulation on 1 January 2009, with the E-8 group ceasing to be valid after 31 December 2009 (although still redeemable at branches of the Central Bank until 31 December 2019). The E-9 banknotes refer to the currency as "Turkish lira" rather than "new Turkish lira", and include a new 200 Turkish lira denomination. The new banknotes have different sizes to prevent forgery. The main specificity of this new series is that each denomination depicts a famous Turkish personality, rather than geographical sites and architectural features of Turkey. The dominant color of the 5 Turkish lira banknote has been determined as "purple" on second series of current banknotes.
+    </banknotes>
+    <coins>
+      From 1 January 2009, the phrase "new" was removed from the second Turkish lira, its official name in Turkey becoming just "Turkish lira" again; new coins without the word "yeni" were introduced in denominations of 1, 5, 10, 25, 50 kuruş and 1 Turkish lira. Also, the center and ring alloys of the 50 kuruş and 1 Turkish lira coins were reversed.
+    </coins>
+    <user>Turkey, Northern Cyprus</user>
+    <flag>../../ViewModels/Files/turkey.gif</flag>
+  </currency>
+</currencies>
+

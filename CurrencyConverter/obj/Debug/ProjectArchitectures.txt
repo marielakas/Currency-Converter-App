@@ -1,0 +1,1 @@
+C:\Users\usr\Documents\Visual Studio 2012\Projects\CurrencyConversion\CurrencyConvertor\CurrencyConvertor.csproj;neutral
